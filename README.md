@@ -26,4 +26,6 @@ After setup you find the measurement data in the device overview:
 
 To transmit the measurement data to the outside of ESPEasy you have to configure a Controller. Here the example shows a MQTT interface:
 
-![Picture test-setup](Pics/ESPEasy_MQTT Controller.png?raw=true "MQTT Controller in ESPEasy")
+![Picture test-setup](Pics/ESPEasy_MQTT_Controller.png?raw=true "MQTT Controller in ESPEasy")
+
+Have fun!
