@@ -12,10 +12,15 @@ You find pre-compiled binaries in the Binaries folder (for 4M Flash). If you nee
 For the hardware interface between ESP8266 and the meter you need an adapter interface from UART to RS-485 like this: [RS-485 Interface](https://www.ebay.de/itm/MAX485-TTL-Schnittstelle-Modul-Adapter-RS-485-RS-485-Arduino-Raspberry-Pi-Module/162384175341?hash=item25ced9e0ed:g:CAUAAOSwZZpdGJe7). If DE pin support is enabled you have to short-circuit the DE and RE pin on the linked interface board and connect it to the selected GPIO.
 
 Connection RS485 Interface - ESP8266:
+
 DI - TX, GPIO-1 (D10) TX0
+
 RO - RX, GPIO-3 (D9) RX0
+
 DE/RE - GPIO12 (D6) (for example)
+
 VCC - 3.3V
+
 GND - GND
 
 
