@@ -7,7 +7,7 @@ The new MPM3PM library is based on the SDM630 library [SDM630](https://github.co
 
 ![Picture of MPM3PM](Pics/MPM3PM_Meter.JPG?raw=true "MPM3PM Meter installed")
 
-You find pre-compiled binaries in the Binaries folder (for 4M Flash). If you need additional not supported sensors you have to compile everything by yourself. For this see follow the instructions for the original ESPEasy version but keep the MPM3PM plug-in enabled.
+You find pre-compiled binaries in the Binaries folder (for 4M Flash). If you need additional not supported sensors you have to compile everything by yourself. For this follow the instructions for the original ESPEasy version but keep the MPM3PM plug-in enabled.
 
 For the hardware interface between ESP8266 and the meter you need an adapter interface from UART to RS-485 like this: [RS-485 Interface](https://www.ebay.de/itm/MAX485-TTL-Schnittstelle-Modul-Adapter-RS-485-RS-485-Arduino-Raspberry-Pi-Module/162384175341?hash=item25ced9e0ed:g:CAUAAOSwZZpdGJe7). If DE pin support is enabled you have to short-circuit the DE and RE pin on the linked interface board and connect it to the selected GPIO.
 
