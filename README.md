@@ -13,15 +13,15 @@ For the hardware interface between ESP8266 and the meter you need an adapter int
 
 Connection RS485 Interface - ESP8266:
 
-DI - TX, GPIO-1 (D10) TX0
+DI  <-> TX, GPIO-1 (D10) TX0
 
-RO - RX, GPIO-3 (D9) RX0
+RO  <-> RX, GPIO-3 (D9) RX0
 
-DE/RE - GPIO12 (D6) (for example)
+DE/RE <-> GPIO12 (D6) (for example)
 
-VCC - 3.3V
+VCC <-> 3.3V
 
-GND - GND
+GND <-> GND
 
 
 
