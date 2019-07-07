@@ -24,3 +24,6 @@ After setup you find the measurement data in the device overview:
 
 ![Picture test-setup](Pics/ESPEasy_DeviceOverview.png?raw=true "MPM3PM Device Configuration")
 
+To transmit the measurement data to the outside of ESPEasy you have to configure a Controller. Here the example shows a MQTT interface:
+
+![Picture test-setup](Pics/ESPEasy_MQTT Controller.png?raw=true "MQTT Controller in ESPEasy")
