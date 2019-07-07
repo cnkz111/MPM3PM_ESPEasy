@@ -16,3 +16,11 @@ To interface the ESP8266 with the ModBus interface of the meter you need an adap
 
 ![Picture test-setup](Pics/ESP_Installed.JPG?raw=true "Final HW installed")
 
+After installing ESPEasy you can configure the Energy Meter in the Device Setup tab:
+
+![Picture test-setup](Pics/ESPEasy_DeviceEdit.png?raw=true "MPM3PM Device Configuration")
+
+After setup you find the measurement data in the device overview:
+
+![Picture test-setup](Pics/ESPEasy_DeviceOverview.png?raw=true "MPM3PM Device Configuration")
+
